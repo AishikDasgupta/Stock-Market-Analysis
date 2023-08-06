@@ -20,7 +20,8 @@ Welcome to Stock Market Analysis, a powerful Python project that leverages the c
 **How to Use:**
 1. Clone the repository to your local machine.
 2. Install the required Python packages listed in the `requirements.txt` file.
-3. Explore the various Jupyter notebooks for different aspects of stock market analysis.
+3. Explore the various Jupyter notebooks for di![Screenshot from 2023-06-18 22-37-52](https://github.com/AishikDasgupta/Stock-Market-Analysis/assets/83045121/37d8e187-9dc4-4613-8186-d9502829b421)
+fferent aspects of stock market analysis.
 4. Customize the code to work with your preferred stock data sources and adjust parameters for analysis.
 5. Use the provided templates and functions to conduct your analysis and visualize results.
 
